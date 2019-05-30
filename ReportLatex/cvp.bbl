@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{rolfs2015attention}
+Martin Rolfs.
+\newblock Attention in active vision: A perspective on perceptual continuity
+  across saccades.
+\newblock {\em Perception}, 44(8-9):900--919, 2015.
+
+\bibitem{di2010adaptive}
+Mario Di~Francesco, Kunal Shah, Mohan Kumar, and Giuseppe Anastasi.
+\newblock An adaptive strategy for energy-efficient data collection in sparse
+  wireless sensor networks.
+\newblock In {\em European Conference on Wireless Sensor Networks}, pages
+  322--337. Springer, 2010.
+
+\bibitem{nemhauser1978analysis}
+George~L Nemhauser, Laurence~A Wolsey, and Marshall~L Fisher.
+\newblock An analysis of approximations for maximizing submodular set
+  functions—i.
+\newblock {\em Mathematical programming}, 14(1):265--294, 1978.
+
+\bibitem{feige1998threshold}
+Uriel Feige.
+\newblock A threshold of ln n for approximating set cover.
+\newblock {\em Journal of the ACM (JACM)}, 45(4):634--652, 1998.
+
+\bibitem{golovin2011adaptive}
+Daniel Golovin and Andreas Krause.
+\newblock Adaptive submodularity: Theory and applications in active learning
+  and stochastic optimization.
+\newblock {\em Journal of Artificial Intelligence Research}, 42:427--486, 2011.
+
+\bibitem{eidenberger2010active}
+Robert Eidenberger and Josef Scharinger.
+\newblock Active perception and scene modeling by planning with probabilistic
+  6d object poses.
+\newblock In {\em 2010 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems}, pages 1036--1043. IEEE, 2010.
+
+\bibitem{sridharan2010planning}
+Mohan Sridharan, Jeremy Wyatt, and Richard Dearden.
+\newblock Planning to see: A hierarchical approach to planning visual actions
+  on a robot using pomdps.
+\newblock {\em Artificial Intelligence}, 174(11):704--725, 2010.
+
+\bibitem{lauri2017multi}
+Mikko Lauri, Eero Hein{\"a}nen, and Simone Frintrop.
+\newblock Multi-robot active information gathering with periodic communication.
+\newblock In {\em 2017 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 851--856. IEEE, 2017.
+
+\bibitem{lauri2019information}
+Mikko Lauri, Joni Pajarinen, and Jan Peters.
+\newblock Information gathering in decentralized pomdps by policy graph
+  improvement.
+\newblock {\em arXiv preprint arXiv:1902.09840}, 2019.
+
+\bibitem{oliehoek2016concise}
+Frans~A Oliehoek, Christopher Amato, et~al.
+\newblock {\em A concise introduction to decentralized POMDPs}, volume~1.
+\newblock Springer, 2016.
+
+\bibitem{atanasov2014nonmyopic}
+Nikolay Atanasov, Bharath Sankaran, Jerome Le~Ny, George~J Pappas, and Kostas
+  Daniilidis.
+\newblock Nonmyopic view planning for active object classification and pose
+  estimation.
+\newblock {\em IEEE Transactions on Robotics}, 30(5):1078--1090, 2014.
+
+\bibitem{hepp2018learn}
+Benjamin Hepp, Debadeepta Dey, Sudipta~N Sinha, Ashish Kapoor, Neel Joshi, and
+  Otmar Hilliges.
+\newblock Learn-to-score: Efficient 3d scene exploration by predicting view
+  utility.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 437--452, 2018.
+
+\bibitem{vaisenberg2014scheduling}
+Ronen Vaisenberg, Alessio Della~Motta, Sharad Mehrotra, and Deva Ramanan.
+\newblock Scheduling sensors for monitoring sentient spaces using an
+  approximate pomdp policy.
+\newblock {\em Pervasive and Mobile Computing}, 10:83--103, 2014.
+
+\bibitem{isler2016information}
+Stefan Isler, Reza Sabzevari, Jeffrey Delmerico, and Davide Scaramuzza.
+\newblock An information gain formulation for active volumetric 3d
+  reconstruction.
+\newblock In {\em 2016 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 3477--3484. IEEE, 2016.
+
+\end{thebibliography}
